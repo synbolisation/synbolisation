@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @synbolisation
-- I created this Page on the 30/09/2023
-- I am currently a University student studying Bachelor of Engineering (Software)
-- I am 19 years old and based in Australia. 
-- 👀 I’m interested in Programming, Gaming, Technology & Learning.
-- 🌱 Somethings I am currently working on are: Developing my knowledge in C++, GIT and the programming workflow. I am also interested in developing applications for games, such as Mods & Cheats (non-malicious).
-- I have a keen interest in Cyber Security and Networking.
-- 📫 How to reach me => Best way of reaching me is Discord. My discord is: synbol / synbol#9873 .
+ Hi, I’m @synbolisation
+ I created this Page on the 30/09/2023
+ I am currently a University student studying Bachelor of Engineering (Software)
+ I am 20 years old and based in Australia. 
+ I’m interested in Programming, Cyber Security and Gaming.
